@@ -1,0 +1,33 @@
+.title{
+background-color: red;
+color: white;
+height: 30pxpx;
+padding-left: 15px;
+margin: 10px;
+}
+
+.utpal{
+    display: none;
+}
+.box-button{
+    background-color: yellow;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    border-radius: 4px ;
+    color: red;
+}
+.box{
+    margin-left:50px ;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    display: none;
+
+}
+
+.shakib-vai{
+    display: none;
+}
+.virat-vai{
+    display: none;
+}
